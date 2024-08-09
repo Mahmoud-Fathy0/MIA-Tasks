@@ -6,3 +6,4 @@
  - Task_4: Overcoming The Tempest
  - Task_5: Communicate
  - Task_6: Heroic PCB!
+ - Task_7: Smart Heroic Tools! 
